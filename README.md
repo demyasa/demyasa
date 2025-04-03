@@ -13,8 +13,7 @@ Welcome to my page! My name is Dennis Myasnyankin and I'm from San Francisco, CA
 - [Development of a Data Pipeline for Analyzing Airbnb Seattle Reservation Prices using S3 and MySQL](https://github.com/ruddysimon/ADS507-Practical-Data-Engineering-Airbnb_Seattle/tree/main)
 - [A Predictive Analysis of Loan Approvals through Classification Modeling and Cloud Computing](https://github.com/edwardam5/508_FinalProject)
 - [Airline Flight Delays](https://github.com/demyasa/Airline-Delays)
-- [Diabetes Readmission Prediction](ADS 503)
-- [Predicting Airline Customer Satisfaction](ADS 505)
+- [Predicting Airline Customer Satisfaction](https://github.com/demyasa/Predicting-Airline-Customer-Satisfaction/tree/main)
 - [Monthly Natural Gas Price Forecasting](ADS 506)
 - [Airline Review Text Classification and Topic Modeling](ADS 509)
 
