@@ -14,7 +14,7 @@ Welcome to my page! My name is Dennis Myasnyankin and I'm from San Francisco, CA
 - [A Predictive Analysis of Loan Approvals through Classification Modeling and Cloud Computing](https://github.com/edwardam5/508_FinalProject)
 - [Airline Flight Delays](https://github.com/demyasa/Airline-Delays)
 - [Predicting Airline Customer Satisfaction](https://github.com/demyasa/Predicting-Airline-Customer-Satisfaction/tree/main)
-- [Monthly Natural Gas Price Forecasting](ADS 506)
+- [Monthly Natural Gas Price Forecasting](https://github.com/demyasa/Natural-Gas-Forecasting/blob/main/README.md)
 - [Airline Review Text Classification and Topic Modeling](ADS 509)
 
 ## Skills
