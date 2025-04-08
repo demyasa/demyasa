@@ -15,7 +15,7 @@ Welcome to my page! My name is Dennis Myasnyankin and I'm from San Francisco, CA
 - [Airline Flight Delays](https://github.com/demyasa/Airline-Delays)
 - [Predicting Airline Customer Satisfaction](https://github.com/demyasa/Predicting-Airline-Customer-Satisfaction/tree/main)
 - [Monthly Natural Gas Price Forecasting](https://github.com/demyasa/Natural-Gas-Forecasting/blob/main/README.md)
-- [Airline Review Text Classification and Topic Modeling](ADS 509)
+- [Airline Review Text Classification and Topic Modeling](https://github.com/demyasa/Airline-Review-Text-Classification-and-Topic-Modeling)
 
 ## Skills
 
