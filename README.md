@@ -9,6 +9,7 @@ Welcome to my page! My name is Dennis Myasnyankin and I'm from San Francisco, CA
 
 ## Projects
 
+- [Predictive Analysis in Used Car Market](https://github.com/demyasa/Predictive-Analysis-of-Car-Trade-In-Values)
 - [Unraveling the Dynamics of Airfare Price Predictions](https://github.com/christinevu510/Unraveling-the-Dynamics-of-Airfare-Price-Predictions)
 - [Development of a Data Pipeline for Analyzing Airbnb Seattle Reservation Prices using S3 and MySQL](https://github.com/ruddysimon/ADS507-Practical-Data-Engineering-Airbnb_Seattle/tree/main)
 - [A Predictive Analysis of Loan Approvals through Classification Modeling and Cloud Computing](https://github.com/edwardam5/508_FinalProject)
